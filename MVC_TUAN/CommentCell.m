@@ -1,9 +1,9 @@
 //
-//  CommentCell.m
-//  TongTongTuan
+//  Comment.m
+//  MVCdemo
 //
-//  李红(410139419@qq.com)创建于 13-8-16.
-//  Copyright (c) 2013年 贵阳世纪恒通科技有限公司. All rights reserved.
+//  Created by apple on 14-7-2.
+//  Copyright (c) 2014年 apple. All rights reserved.
 //
 
 #import "CommentCell.h"

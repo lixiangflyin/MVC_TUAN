@@ -1,9 +1,9 @@
 //
 //  ScoreStarView.m
-//  TongTongTuan
+//  MVCdemo
 //
-//  Created by 李红 on 13-8-16.
-//  Copyright (c) 2013年 贵阳世纪恒通科技有限公司. All rights reserved.
+//  Created by apple on 14-7-2.
+//  Copyright (c) 2014年 apple. All rights reserved.
 //
 
 #import "ScoreStarView.h"

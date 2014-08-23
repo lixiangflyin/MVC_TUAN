@@ -50,7 +50,7 @@
     return self;
 }
 
-//刷新
+//刷新 数据复制添加
 - (void)refreshListhWithDataSource:(NSArray *)modelObjectArray
 {
     [self.tentopicsArr removeAllObjects];
@@ -66,6 +66,7 @@
     
     if(self.delegate)
     {
+        //回调VC然后并返回数据
         [self.delegate productListView:self refreshOnSuccess:^(NSMutableArray *listOfModelBaseObjects)
          {
              [self refreshListhWithDataSource:listOfModelBaseObjects];

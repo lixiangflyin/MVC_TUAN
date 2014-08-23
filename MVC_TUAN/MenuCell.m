@@ -1,9 +1,9 @@
 //
 //  MenuCell.m
-//  TongTongTuan
+//  MVCdemo
 //
-//  Created by xcode on 13-7-19.
-//  Copyright (c) 2013年 贵阳世纪恒通科技有限公司. All rights reserved.
+//  Created by apple on 14-7-2.
+//  Copyright (c) 2014年 apple. All rights reserved.
 //
 
 #import "MenuCell.h"

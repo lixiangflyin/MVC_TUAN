@@ -19,16 +19,16 @@
 - (void) setValue:(id)value forKey:(NSString *)key
 {
     if([key isEqualToString:@"id"]){
-        self.attId = [value integerValue];
+        self.attId = [value intValue];
         
     }else if([key isEqualToString:@"filename"]){
         self.attFileName = value;
         
     }else if([key isEqualToString:@"pos"]){
-        self.attPos = [value integerValue];
+        self.attPos = [value intValue];
         
     }else if([key isEqualToString:@"size"]){
-        self.attSize = [value integerValue];
+        self.attSize = [value intValue];
         
     }else if([key isEqualToString:@"url"]){
         self.attUrl = value;
