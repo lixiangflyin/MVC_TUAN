@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C30DC47D-00A1-46B5-933D-C71FD5461442</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MVC_TUAN</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>995FEF72-1E8D-448F-BB19-C9C8A4667E22</key>
+		<string>https://github.com/lixiangflyin/MVC_TUAN.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MVC_TUAN.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>995FEF72-1E8D-448F-BB19-C9C8A4667E22</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lixiangflyin/MVC_TUAN.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>995FEF72-1E8D-448F-BB19-C9C8A4667E22</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>995FEF72-1E8D-448F-BB19-C9C8A4667E22</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MVC_TUAN</string>
+		</dict>
+	</array>
+</dict>
+</plist>
